@@ -7,4 +7,5 @@ A React app created for the purpose of exercising my skills of styling.
 )
 
 * -[3/8/2022]: built out file structure
+* -[3/10/2022]: added routes
 
