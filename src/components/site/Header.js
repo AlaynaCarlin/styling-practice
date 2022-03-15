@@ -17,6 +17,12 @@ const Header = () => {
                         <NavLink href='https://github.com/AlaynaCarlin/styling-practice.git'>
                             GitHub 
                         </NavLink>
+                        {/* <NavLink href='https://github.com/AlaynaCarlin/styling-practice.git'>
+                            GitHub 
+                        </NavLink>
+                        <NavLink href='https://github.com/AlaynaCarlin/styling-practice.git'>
+                            GitHub 
+                        </NavLink> */}
                     </NavItem>
                 </Nav>
             </Navbar>
