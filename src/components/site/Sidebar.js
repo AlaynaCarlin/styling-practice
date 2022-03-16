@@ -15,6 +15,10 @@ const SideBar = () => {
                     <li><Link to='/home'>Home</Link></li>
                     <li><Link to='/simple'>Simple</Link></li>
                     <li><Link to='/dark'>Dark</Link></li>
+                    <li><Link to='/dark'>Dark</Link></li>
+                    <li><Link to='/dark'>Dark</Link></li>
+                    <li><Link to='/dark'>Dark</Link></li>
+                    <li><Link to='/dark'>Dark</Link></li>
                 </ul>
             </div> 
             <div className='sidebar-route'>
