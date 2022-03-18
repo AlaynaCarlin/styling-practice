@@ -2,7 +2,7 @@
 
 const Simple = () => {
     return(
-        <div className="main">
+        <div className="simple">
             <div className="mainDiv">
                 Simple Component
             </div>
