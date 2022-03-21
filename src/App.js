@@ -16,7 +16,6 @@ function App() {
     <Router>
       <Header />
       <SideBar />
-        <Home />
       <Footer />
       </Router>
     </div>
