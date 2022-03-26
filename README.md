@@ -12,4 +12,5 @@ A React app created for the purpose of exercising my skills of styling.
 * -[3/17/2022]: working on getting router to function properly
 * -[3/23/2022]: Fetches from the api
 * -[3/25/2022]: displaying data, working on displaying more and refresh
+* -[3/26/2022]: Simple component finished
 
