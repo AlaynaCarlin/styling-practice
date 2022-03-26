@@ -131,6 +131,7 @@ ul {
 .simpleContainer{
   height: 340px;
   border: solid black 2px;
+  margin: 10px;
 }
 
 .simpleContainer img {
