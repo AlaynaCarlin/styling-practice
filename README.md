@@ -13,4 +13,6 @@ A React app created for the purpose of exercising my skills of styling.
 * -[3/23/2022]: Fetches from the api
 * -[3/25/2022]: displaying data, working on displaying more and refresh
 * -[3/26/2022]: Simple component finished
+* -[3/28/2022]: Added Fun page
+* -[3/29/2022]: worked on fetch
 
