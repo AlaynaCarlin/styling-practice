@@ -144,3 +144,11 @@ ul {
   min-width: 90vw;
   min-height: 92vh;
 }
+
+.fun {
+  background-image: url('assets/planets.jpg');
+  background-size: cover;
+  min-width: 90vw;
+  min-height: 92vh;
+  background-repeat: no-repeat;
+}
