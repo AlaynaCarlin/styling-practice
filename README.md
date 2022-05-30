@@ -16,4 +16,5 @@ A React app created for the purpose of exercising my skills of styling.
 * -[3/28/2022]: Added Fun page
 * -[3/29/2022]: worked on fetch
 * -[5/26/2022]: using GIPHY API for dark page
+* -[5/30/2022]: dark page almost finished
 
