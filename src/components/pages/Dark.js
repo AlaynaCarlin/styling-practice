@@ -13,7 +13,7 @@ const Dark = () => {
     const [searchGifs, setSearchGifs] = useState([]);
 
     const fetchGif = () => {
-        fetch(`https://api.giphy.com/v1/gifs/search?api_key=84t03ALHsqYZ6PuIEn3T6Y1evJxmqo2l&q=${searchTerm}&limit=25&offset=2&rating=g&lang=en`, {
+        fetch(`https://api.giphy.com/v1/gifs/search?api_key=84t03ALHsqYZ6PuIEn3T6Y1evJxmqo2l&q=${searchTerm}&limit=30&offset=2&rating=g&lang=en`, {
             method: 'GET'
         }).then(res => res.json())
             .then(json => {
@@ -53,7 +53,7 @@ const Dark = () => {
                             <Input placeholder="search" onChange={(e) => setSearchTerm(e.target.value)} />
                         </Col>
                         <Col>
-                            <Button type="submit">Fetch</Button>
+                            <Button type="submit">Search</Button>
                         </Col>
                     </Row>
                 </Form>
